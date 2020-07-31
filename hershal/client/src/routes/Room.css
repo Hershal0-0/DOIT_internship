@@ -1,0 +1,46 @@
+.user_element{
+    display: flex;
+    flex-direction: column;
+    background-color: lavender;
+    padding: 0;
+    margin: 0;
+    height: min-content;
+    
+}
+
+.container{
+    padding: 20px;
+    display: flex;
+    width: 75%;
+    margin-left: 0;
+    flex-wrap: wrap;
+    background-color: #af5eff;
+}
+
+.vid{
+    width: 400px;
+    
+    padding: 0;
+    margin: 0;
+}
+h3{
+    padding: 0;
+    margin: 0;
+    
+}
+
+.name{
+    margin-top: 15px;
+    margin-bottom: 15px;;
+}
+
+.chatbox{
+    width: 30%;
+    background-color: lavender;
+    height:70vh;
+}
+
+.view{
+    display: flex;
+    flex-direction: row;
+}
