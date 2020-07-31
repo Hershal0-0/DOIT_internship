@@ -1,0 +1,29 @@
+Deploying app on Heroku
+
+Gmail id : sipl2g15@gmail.com
+Password : hershalisnoob
+
+1. Go to https://www.heroku.com/
+2. Login using details given below :
+   id : sipl2g15@gmail.com
+   pass: hershalisnoob@2020
+3. Go to dashboard and click create app
+4. Lets name our app to "Hermes" or "Mercury" since these are greek gods of communication :p
+5. Now install Heroku Cli using link : https://devcenter.heroku.com/articles/heroku-cli#download-and-install
+6. Install it.
+7. Now go to nodejs project and open terminal.
+8. Type "Heroku Login"
+9. You'll have to enter credentials.
+10.Upload our project on github.
+11. Initiate git using "git init"
+12. Host app using "heroku git:remote -a "Name of app"
+13. In ignore files add node module.
+14. "git add."   
+15. Commit using [git commit -am "initial commit"]
+16.Now push our project to heroku. Type : git push heroku master
+17. After publishing open using "heroku open"
+
+
+
+
+Youtube link : https://www.youtube.com/watch?v=aUW5GAFhu6s
