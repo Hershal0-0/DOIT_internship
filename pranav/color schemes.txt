@@ -1,0 +1,4 @@
+Colour scheme: 
+We are going to use our RAIT color scheme i.e : #A51C13   <- Red
+                                                #171B43   <- Blue
+                                                
